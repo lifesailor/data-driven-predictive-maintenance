@@ -10,19 +10,15 @@ A curated list of predictive maintenance resources. Inspired by [awesome-ml](htt
 
 ## What is Predictive maintenance?
 
-**Predictive maintenance** (**PdM**) techniques are designed to help determine the condition of in-service equipment in order to predict when maintenance should be performed. 
+[Predictive maintenance(PdM)]([Wikipedia](https://en.wikipedia.org/wiki/Predictive_maintenance)) techniques are designed to help determine the condition of in-service equipment in order to predict when maintenance should be performed. 
 
 The main promise of predictive maintenance is to allow convenient scheduling of corrective maintenance and to prevent unexpected equipment failures. The key is "the right information in the right time". 
 
 By knowing which equipment needs maintenance, maintenance work can be better planned (spare parts, people, etc.) and what would have been "unplanned stops" are transformed to shorter and fewer "planned stops", thus increasing plant availability. Other potential advantages include increased equipment lifetime, increased plant safety, fewer accidents with negative impact on environment, and optimized spare parts handling.
 
-[Wikipedia](https://en.wikipedia.org/wiki/Predictive_maintenance)
+![predictive-maintenance](./image/predictive-maintenance.png)
 
-
-
-![predictive-maintenance](/Users/lifesailor/Desktop/project/lifesailor/github/predictive-maintenance/image/predictive-maintenance.png)
-
-Reference: https://idboxrt.com/en/predictive-maintenance/
+[Image](https://idboxrt.com/en/predictive-maintenance/)
 
 
 
@@ -47,6 +43,8 @@ Potential uses for prognostics is in [condition-based maintenance](https://en.wi
 #### The relationship between predictive maintenance and prognostics.
 
 The two seem to be about the same. But prognostics is a broader concept. Prognostics not only predicts machine failure time, but also estimates the remaining useful life of a machines and manages the machine life cycle as a whole.
+
+
 
 
 
