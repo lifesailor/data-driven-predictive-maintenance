@@ -14,6 +14,8 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 [Prognostics](https://en.wikipedia.org/wiki/Prognostics) is almost the same concept as predictive maintenance. Prognostics is just a broader concept. Prognostics not only predict failure time, but also calculates the remaining useful life (RUL) and manges a machine as a whole. (Prognostics and Health Mangement).
 
+[Fault Detection](Fault detection and isolation)
+
 
 
 
@@ -28,6 +30,14 @@ There are three methods for prognostics: data-driven method, physics-based metho
 
 
 
+
+
+
+
+
+
+
+
 ## Table of Content
 
 1. Concept of predictive maintenance 
@@ -35,10 +45,9 @@ There are three methods for prognostics: data-driven method, physics-based metho
 2. Data-driven predictive maintenance depending on the type of data.
    1. Vibration
    2. Sound
-   3. 
 
 3. Technique
-   1. 
+
 
 
 
@@ -104,4 +113,7 @@ There are three methods for prognostics: data-driven method, physics-based metho
 
 
 
+#### Thesis
 
+- Sound based fault detection system | Teemu Tossavainen | **[Aalto university' 2015]** | [pdf](<https://aaltodoc.aalto.fi/bitstream/handle/123456789/19221/master_Tossavainen_Teemu_2015.pdf?sequence=1&isAllowed=y>)
+  - 
