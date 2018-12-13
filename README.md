@@ -46,8 +46,10 @@ There are three methods for prognostics: data-driven method, physics-based metho
    1. Vibration
    2. Sound
 
-3. Technique
+3. Predictive maintenance technique
 
+   1. Anomaly Detection
+   2. Signal Processing
 
 
 
@@ -80,9 +82,15 @@ There are three methods for prognostics: data-driven method, physics-based metho
 
 
 
-## 2. data-driven predictive maintenance
+## 2. Data-driven predictive maintenance
 
 ### 1. vibration
+
+### Slide
+
+- Beginning vibration analysis with basic fundamentals | Jack Peters | **[CTC' 2015]** | [pdf](http://www.ctconline.com/pdf/pubTechPapers/01-Beginning%20Vibration%20Analysis.pdf)
+
+
 
 
 
@@ -116,4 +124,10 @@ There are three methods for prognostics: data-driven method, physics-based metho
 #### Thesis
 
 - Sound based fault detection system | Teemu Tossavainen | **[Aalto university' 2015]** | [pdf](<https://aaltodoc.aalto.fi/bitstream/handle/123456789/19221/master_Tossavainen_Teemu_2015.pdf?sequence=1&isAllowed=y>)
-  - 
+
+
+
+
+## 3. Predictive maintenance techinque
+
+### 
