@@ -1,4 +1,4 @@
-# Data-driven predictive maintenance
+# Predictive maintenance
 
 A curated list of predictive maintenance resources. Inspired by [awesome-ml](https://github.com/sdukshis/awesome-ml) and [awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection). 
 
@@ -12,25 +12,7 @@ A curated list of predictive maintenance resources. Inspired by [awesome-ml](htt
 
 The main promise of predictive maintenance is to allow convenient scheduling of corrective maintenance and to prevent unexpected equipment failures. The key is "the right information in the right time". 
 
-[Prognostics](https://en.wikipedia.org/wiki/Prognostics) is almost the same concept as predictive maintenance. Prognostics is just a broader concept. Prognostics not only predict failure time, but also calculates the remaining useful life (RUL) and manges a machine as a whole. (Prognostics and Health Mangement).
-
-[Fault Detection](Fault detection and isolation)
-
-
-
-
-
-## What is data-driven predictive maintenance?
-
-There are three methods for prognostics: data-driven method, physics-based method and the previous two hybrid methods.
-
-
-
-
-
-
-
-
+[Prognostics](https://en.wikipedia.org/wiki/Prognostics), [Fault detection](https://en.wikipedia.org/wiki/Fault_detection_and_isolation) is similar concept to predictive maintenance. 
 
 
 
@@ -42,14 +24,16 @@ There are three methods for prognostics: data-driven method, physics-based metho
 
 1. Concept of predictive maintenance 
 
-2. Data-driven predictive maintenance depending on the type of data.
+2. Predictive maintenance depending on the type of data.
    1. Vibration
    2. Sound
 
 3. Predictive maintenance technique
 
-   1. Anomaly Detection
-   2. Signal Processing
+   1. Signal Processing
+
+   2. Anomaly Detection
+
 
 
 
@@ -82,17 +66,28 @@ There are three methods for prognostics: data-driven method, physics-based metho
 
 
 
-## 2. Data-driven predictive maintenance
+## 2. Predictive maintenance depending on the type of data
 
 ### 1. vibration
 
-### Slide
+#### Slide
 
 - Beginning vibration analysis with basic fundamentals | Jack Peters | **[CTC' 2015]** | [pdf](http://www.ctconline.com/pdf/pubTechPapers/01-Beginning%20Vibration%20Analysis.pdf)
 
 
 
+#### Video
 
+- Vibration Analysis Know-How: Quick Intro to Vibration Analysis | Jason Tranter | **[LUDECAINC' 2015]** | [Youtube](https://www.youtube.com/watch?v=ZyIyWrHVFkA)
+  - Provides good introduction to vibration analysis
+
+
+
+#### Publication
+
+- Vibration Analysis and Diagnostic Guide | Jaafar Alsalaet | **[Unversity of Barash' 2012]** | [pdf](https://www.researchgate.net/profile/Jaafar_Alsalaet/publication/311420765_Vibration_Analysis_and_Diagnostic_Guide/links/584556ba08aeda696819fbb4/Vibration-Analysis-and-Diagnostic-Guide.pdf?origin=publication_detail)
+- Vibration-based gearbox fault diagnosis using deep neural networks | Zhiqiang Chen, Shengcai Deng, Xudong Chen, Chuan Li, René-Vinicio Sanchez, Huafeng Qin| **[Journal of Vibroengineering' 2017]** | [pdf](https://www.researchgate.net/publication/318073540_Vibration-based_gearbox_fault_diagnosis_using_deep_neural_networks)
+- Deep learning enabled fault diagnosis using time-frequency image analysis of rolling element bearings | David Verstraete, Andrés Ferrada, Enrique López Droguett, Viviana Meruane, Mohammad Modarre | **[Hindawi' 2017]** | [pdf](https://www.hindawi.com/journals/sv/2017/5067651/)
 
 
 
@@ -105,11 +100,10 @@ There are three methods for prognostics: data-driven method, physics-based metho
 
 
 
-#### Article
+#### Publication
 
 - Residual Error Based Anomaly Detection Using
   Auto-Encoder in SMD Machine Sound | Dong Yul Oh, Il Dong Yun | **[sensors' 2018]** | [pdf](https://www.mdpi.com/1424-8220/18/5/1308/pdf)
-
   - Transform the sound into a spectrogram and applied convolutional autoencoder to detect anomalies.
 
 - Anomaly Detection Technique in Sound to Detect Faulty Equipment| Hisashi Uematsu, Yuma Koizumi, Shoichiro Saito, Akira Nakagawa, and Noboru Harada| **[NTT Technical review' 2017]** | [pdf](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201708fa5.pdf&mode=show_pdf)
@@ -119,11 +113,19 @@ There are three methods for prognostics: data-driven method, physics-based metho
 - Unsupervised Detection of Anomalous Sound based on Deep Learning and the Neyman-Pearson Lemma | Yuma Koizumi, Shoichiro Sait, Hisashi Uematsu, 
   Yuta Kawachi, and Noboru Harada | **[arXiv' 2018]** | [pdf](https://arxiv.org/pdf/1810.09133.pdf)
 
-
-
-#### Thesis
-
 - Sound based fault detection system | Teemu Tossavainen | **[Aalto university' 2015]** | [pdf](<https://aaltodoc.aalto.fi/bitstream/handle/123456789/19221/master_Tossavainen_Teemu_2015.pdf?sequence=1&isAllowed=y>)
+
+
+
+
+### 3. process parameter
+
+#### Publication
+
+- Recurrent auto-encoder model for large-scale industrial sensor signal analysis|Timothy Wong and Zhiyuan Luo| Royal Holloway | **[Arxiv' 2018]** | [pdf](https://arxiv.org/pdf/1807.03710.pdf) 
+
+
+
 
 
 
