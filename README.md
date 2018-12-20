@@ -87,6 +87,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 - Vibration-based gearbox fault diagnosis using deep neural networks | Zhiqiang Chen, Shengcai Deng, Xudong Chen, Chuan Li, René-Vinicio Sanchez, Huafeng Qin| **[Journal of Vibroengineering' 2017]** | [pdf](https://www.researchgate.net/publication/318073540_Vibration-based_gearbox_fault_diagnosis_using_deep_neural_networks)
 - Deep learning enabled fault diagnosis using time-frequency image analysis of rolling element bearings | David Verstraete, Andrés Ferrada, Enrique López Droguett, Viviana Meruane, Mohammad Modarre | **[Hindawi' 2017]** | [pdf](https://www.hindawi.com/journals/sv/2017/5067651/)
 - Artificial intelligence for fault diagnosis of rotating machinery: A review | [pdf](https://www.sciencedirect.com/science/article/pii/S0888327018300748)
+- Anomaly Detection in Rolling Element Bearings via Two-Dimensional Symbolic Aggregate Approximation | [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.8629&rep=rep1&type=pdf)
 
 
 ### 2. sound
