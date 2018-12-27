@@ -3,7 +3,7 @@
 A curated list of predictive maintenance resources. Inspired by [awesome-ml](https://github.com/sdukshis/awesome-ml) and [awesome-anomaly-detection](https://github.com/hoya012/awesome-anomaly-detection). 
 
 
-
+<br/><br/>
 
 
 ## What is predictive maintenance?
@@ -15,8 +15,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 [Prognostics](https://en.wikipedia.org/wiki/Prognostics), [Fault detection](https://en.wikipedia.org/wiki/Fault_detection_and_isolation) is similar concept to predictive maintenance. 
 
 
-
-
+<br/><br/>
 
 ## Table of Content
 
@@ -32,7 +31,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
    2. Classification
    3. Anomaly Detection
   
-
+<br/><br/>
 
 ## 1. Concept of predictive maintenance
 
@@ -41,7 +40,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 - An introduction to predictive maintenance | R.Keith Mobley | **[Elsevier Science(USA)' 2002]** | [pdf](http://www.irantpm.ir/wp-content/uploads/2008/02/an-introduction-to-predictive-maintenance.pdf)
 
    - This book clearly explains key concepts and basic techniques of predictive maintenance. At the first part of the book, it is explained that why predictive maintenance is important and how to justify it in financial aspects. The second part presents various techinques for each data type. Vibartion analysis, thermography, tribology, process parameters, ultrasonics, visual inspection, operating dynamics analysis are described in each chapter. 
-
+<br/>
 
 
 #### Slide
@@ -49,7 +48,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 - Introduction to Prognostics | N.Scott Clements | **[Annual Conference of the PHM Society' 2011]** | [pdf](https://www.phmsociety.org/sites/phmsociety.org/files/Tutorial%20Prognostics%20Clements.pdf)
 - Introduction to Prognostics | Kai Goebel, Abhinav Saxena, Matt Daigle, Jose Celaya, Indranil Roychoudhury, Scott Clements |**[NASA Prognostics CoE' 2012]** | [pdf](http://ftp.phmsociety.org/sites/phmsociety.org/files/Tutorial_Prognostics.pdf)
   - The above slides explain prognostics is estimation of the remaining useful life of a component. Remaining useful life of a component can be expected to continue operating within its given specifications. The brief explanation of three methods for prognostics are provided.
-
+<br/>
 
 
 #### Essay
@@ -58,7 +57,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
   - I lack mechanically engineering and physical background. Such knowledge, of course, may be necessary, but the important thing is to properly predict the failure of the equipment. This resource gave me the courage to approach the problem as a data scientist, not as a mechanical engineer.
 
 
-
+<br/><br/>
 
 
 ## 2. Predictive maintenance depending on the type of data
@@ -70,14 +69,14 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 - Beginning vibration analysis with basic fundamentals | Jack Peters | **[CTC' 2015]** | [pdf](http://www.ctconline.com/pdf/pubTechPapers/01-Beginning%20Vibration%20Analysis.pdf)
 
-
+<br/>
 
 #### Video
 
  Vibration Analysis Know-How: Quick Intro to Vibration Analysis | Jason Tranter | **[LUDECAINC' 2015]** | [Youtube](https://www.youtube.com/watch?v=ZyIyWrHVFkA)
    - Provides good introduction to vibration analysis
 
-
+<br/>
 
 #### Publication
 
@@ -88,7 +87,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 - Anomaly Detection in Rolling Element Bearings via Two-Dimensional Symbolic Aggregate Approximation | [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.8629&rep=rep1&type=pdf)
 - A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals | [pdf](https://www.mdpi.com/1424-8220/17/2/425/htm)
 
-
+<br/><br/>
 
 ### 2. sound
 
@@ -97,7 +96,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 - Acoustic signals for predictive maintenance: An interview with Amnon Shenfeld of 3DSignals | Robin Whitlock | **[Renewable Energy Magazine' 2017]** [html](https://www.renewableenergymagazine.com/interviews/acoustic-signals-for-predictive-maintenance-an-interview-20170831)
   - The interview explains the advantage of using sound data for predictive maintenance. Only few sound sensors  or microphones you can pick up acoustic behavior of a whole bunch of machines, even track complex processes.
 
-
+<br/>
 
 #### Publication
 
@@ -114,7 +113,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 - Sound based fault detection system | Teemu Tossavainen | **[Aalto university' 2015]** | [pdf](<https://aaltodoc.aalto.fi/bitstream/handle/123456789/19221/master_Tossavainen_Teemu_2015.pdf?sequence=1&isAllowed=y>)
 
-
+<br/><br/>
 
 ### 3. process parameter
 
@@ -122,6 +121,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 - Recurrent auto-encoder model for large-scale industrial sensor signal analysis|Timothy Wong and Zhiyuan Luo| Royal Holloway | **[Arxiv' 2018]** | [pdf](https://arxiv.org/pdf/1807.03710.pdf) 
 
+<br/><br/>
 
 
 
