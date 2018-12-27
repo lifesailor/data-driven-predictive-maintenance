@@ -18,8 +18,6 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 
 
-
-
 ## Table of Content
 
 1. Concept of predictive maintenance 
@@ -27,14 +25,13 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 2. Predictive maintenance depending on the type of data.
    1. Vibration
    2. Sound
+   3. Process Parameter
 
 3. Predictive maintenance technique
    1. Signal Processing
-   2. Anomaly Detection
-
-
-
-
+   2. Classification
+   3. Anomaly Detection
+  
 
 
 ## 1. Concept of predictive maintenance
@@ -43,7 +40,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 - An introduction to predictive maintenance | R.Keith Mobley | **[Elsevier Science(USA)' 2002]** | [pdf](http://www.irantpm.ir/wp-content/uploads/2008/02/an-introduction-to-predictive-maintenance.pdf)
 
-  - This book clearly explains key concepts and basic techniques of predictive maintenance. At the first part of the book, it is explained that why predictive maintenance is important and how to justify it in financial aspects. The second part presents various techinques for each data type. Vibartion analysis, thermography, tribology, process parameters, ultrasonics, visual inspection, operating dynamics analysis are described in each chapter. 
+   - This book clearly explains key concepts and basic techniques of predictive maintenance. At the first part of the book, it is explained that why predictive maintenance is important and how to justify it in financial aspects. The second part presents various techinques for each data type. Vibartion analysis, thermography, tribology, process parameters, ultrasonics, visual inspection, operating dynamics analysis are described in each chapter. 
 
 
 
@@ -66,6 +63,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 ## 2. Predictive maintenance depending on the type of data
 
+
 ### 1. vibration
 
 #### Slide
@@ -76,8 +74,8 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 #### Video
 
-- Vibration Analysis Know-How: Quick Intro to Vibration Analysis | Jason Tranter | **[LUDECAINC' 2015]** | [Youtube](https://www.youtube.com/watch?v=ZyIyWrHVFkA)
-  - Provides good introduction to vibration analysis
+ Vibration Analysis Know-How: Quick Intro to Vibration Analysis | Jason Tranter | **[LUDECAINC' 2015]** | [Youtube](https://www.youtube.com/watch?v=ZyIyWrHVFkA)
+   - Provides good introduction to vibration analysis
 
 
 
@@ -88,6 +86,8 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 - Deep learning enabled fault diagnosis using time-frequency image analysis of rolling element bearings | David Verstraete, Andrés Ferrada, Enrique López Droguett, Viviana Meruane, Mohammad Modarre | **[Hindawi' 2017]** | [pdf](https://www.hindawi.com/journals/sv/2017/5067651/)
 - Artificial intelligence for fault diagnosis of rotating machinery: A review | [pdf](https://www.sciencedirect.com/science/article/pii/S0888327018300748)
 - Anomaly Detection in Rolling Element Bearings via Two-Dimensional Symbolic Aggregate Approximation | [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.470.8629&rep=rep1&type=pdf)
+- A New Deep Learning Model for Fault Diagnosis with Good Anti-Noise and Domain Adaptation Ability on Raw Vibration Signals | [pdf](https://www.mdpi.com/1424-8220/17/2/425/htm)
+
 
 
 ### 2. sound
@@ -116,7 +116,6 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 
 
-
 ### 3. process parameter
 
 #### Publication
@@ -126,9 +125,10 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 
 
-
-
-
 ## 3. Predictive maintenance techinque
 
-### 
+1. Signal Processing
+2. Classification
+3. Anomaly Detection
+4. Extra
+- Deep Learning and Its Applications to Machine Health Monitoring: A Survey | [pdf](https://arxiv.org/abs/1612.07640)
