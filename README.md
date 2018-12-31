@@ -29,7 +29,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 3. Predictive maintenance technique
    1. Signal Processing
    2. Classification
-   3. Anomaly Detection
+   3. Anomaly Detection(Novelty Detection)
   
 <br/><br/>
 
