@@ -31,8 +31,9 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 3. Predictive maintenance technique
 
    1. Signal Processing
-
-   2. Anomaly Detection
+   2. Machine Learning
+      1. Classification
+      2. Fault Detection
 
 
 
@@ -41,11 +42,12 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 ## 1. Concept of predictive maintenance
 
-#### Book
+#### Publication
 
 - An introduction to predictive maintenance | R.Keith Mobley | **[Elsevier Science(USA)' 2002]** | [pdf](http://www.irantpm.ir/wp-content/uploads/2008/02/an-introduction-to-predictive-maintenance.pdf)
 
   - This book clearly explains key concepts and basic techniques of predictive maintenance. At the first part of the book, it is explained that why predictive maintenance is important and how to justify it in financial aspects. The second part presents various techinques for each data type. Vibartion analysis, thermography, tribology, process parameters, ultrasonics, visual inspection, operating dynamics analysis are described in each chapter. 
+- A Survey of Data-Driven Prognostics | Mark A. Schwabacher |**[NASA Ames Research Center' 2006]** | [pdf](https://arc.aiaa.org/doi/abs/10.2514/6.2005-7002)
 
 
 
@@ -86,50 +88,10 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 #### Publication
 
 - Vibration Analysis and Diagnostic Guide | Jaafar Alsalaet | **[Unversity of Barash' 2012]** | [pdf](https://www.researchgate.net/profile/Jaafar_Alsalaet/publication/311420765_Vibration_Analysis_and_Diagnostic_Guide/links/584556ba08aeda696819fbb4/Vibration-Analysis-and-Diagnostic-Guide.pdf?origin=publication_detail)
-- Vibration-based gearbox fault diagnosis using deep neural networks | Zhiqiang Chen, Shengcai Deng, Xudong Chen, Chuan Li, René-Vinicio Sanchez, Huafeng Qin| **[Journal of Vibroengineering' 2017]** | [pdf](https://www.researchgate.net/publication/318073540_Vibration-based_gearbox_fault_diagnosis_using_deep_neural_networks)
-- Deep learning enabled fault diagnosis using time-frequency image analysis of rolling element bearings | David Verstraete, Andrés Ferrada, Enrique López Droguett, Viviana Meruane, Mohammad Modarre | **[Hindawi' 2017]** | [pdf](https://www.hindawi.com/journals/sv/2017/5067651/)
-
-
-
-### 2. sound
-
-#### Interview
-
-- Acoustic signals for predictive maintenance: An interview with Amnon Shenfeld of 3DSignals | Robin Whitlock | **[Renewable Energy Magazine' 2017]** [html](https://www.renewableenergymagazine.com/interviews/acoustic-signals-for-predictive-maintenance-an-interview-20170831)
-  - The interview explains the advantage of using sound data for predictive maintenance. Only few sound sensors  or microphones you can pick up acoustic behavior of a whole bunch of machines, even track complex processes.
-
-
-
-#### Publication
-
-- Residual Error Based Anomaly Detection Using
-  Auto-Encoder in SMD Machine Sound | Dong Yul Oh, Il Dong Yun | **[sensors' 2018]** | [pdf](https://www.mdpi.com/1424-8220/18/5/1308/pdf)
-  - Transform the sound into a spectrogram and applied convolutional autoencoder to detect anomalies.
-
-- Anomaly Detection Technique in Sound to Detect Faulty Equipment| Hisashi Uematsu, Yuma Koizumi, Shoichiro Saito, Akira Nakagawa, and Noboru Harada| **[NTT Technical review' 2017]** | [pdf](https://www.ntt-review.jp/archive/ntttechnical.php?contents=ntr201708fa5.pdf&mode=show_pdf)
-
-  - Explains the reason why it is hard to apply supervised machine learning techinque for predictive maintenance using sound data. 
-
-- Unsupervised Detection of Anomalous Sound based on Deep Learning and the Neyman-Pearson Lemma | Yuma Koizumi, Shoichiro Sait, Hisashi Uematsu, 
-  Yuta Kawachi, and Noboru Harada | **[arXiv' 2018]** | [pdf](https://arxiv.org/pdf/1810.09133.pdf)
-
-- Sound based fault detection system | Teemu Tossavainen | **[Aalto university' 2015]** | [pdf](<https://aaltodoc.aalto.fi/bitstream/handle/123456789/19221/master_Tossavainen_Teemu_2015.pdf?sequence=1&isAllowed=y>)
-
-
-
-
-### 3. process parameter
-
-#### Publication
-
-- Recurrent auto-encoder model for large-scale industrial sensor signal analysis|Timothy Wong and Zhiyuan Luo| Royal Holloway | **[Arxiv' 2018]** | [pdf](https://arxiv.org/pdf/1807.03710.pdf) 
-
-
-
-
-
-
-
-## 3. Predictive maintenance techinque
-
-### 
+  - Provides good introduction of traditional vibration analysis in English.
+- (ko) Vibration and Equipment Handbook | Byungjoon, Lee | **[Korea Electronic Power Corporation' 1998]** | [pdf](http://www.incosys.co.kr/index.php?option=com_content&view=article&id=1057&Itemid=482)
+  - Provides good explanation of traditional vibration analysis in Korean.
+- (book) Structural health monitoring: a  machine learning perspective |Charles R. Farrar, Keith Worden| **[John Wiley & Sons, Ltd' 2013]**| [pdf](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118443118)
+  - Machine learning for vibration analysis.
+- Deep Learning and Its Applications to Machine Health Monitoring: A Survey | Rui Zhao, Ruqiang Yan, Zhenghua Chen, Kezhi Mao, Peng Wang, and Robert X. Gao | **[IEEE Transactions on Neural Networks and Learning Systems' 2016]** |[pdf](https://arxiv.org/abs/1612.07640)
+  - Deep learning for vibartion analysis.
