@@ -132,6 +132,8 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 ## 3. Predictive maintenance techinque
 
 1. Signal Processing
+   - Understand the Fourier transform and its applications | Mike X Cohen | [Udemy](https://www.udemy.com/fourier-transform-mxc/)
+   - Signal Processing problems solved in MATLAB and in python | Mike X Cohen | [Udemy](https://www.udemy.com/signal-processing/)
 2. Machine Learning
    1. Classification
    2. Anomaly Detection
