@@ -14,6 +14,7 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 
 [Prognostics](https://en.wikipedia.org/wiki/Prognostics), [Fault detection](https://en.wikipedia.org/wiki/Fault_detection_and_isolation) is similar concept to predictive maintenance. 
 
+
 <br/><br/>
 
 ## Table of Content
@@ -30,6 +31,8 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
    2. Machine Learning
      - Classification
      - Anomaly Detection
+     
+4. Predictiev maintenance conference
 
 <br/><br/>
 
@@ -134,3 +137,13 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 2. Machine Learning
    1. Classification
    2. Anomaly Detection
+
+<br/>
+<br/>
+
+## 4. Predictive maintenance conference
+   - [PHM Society](https://www.phmsociety.org/)
+   - (ko) [Korean Society for Prognostics and Health Managment](http://www.phm.or.kr/)
+   
+
+
