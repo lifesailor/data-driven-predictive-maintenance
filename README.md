@@ -142,8 +142,8 @@ The main promise of predictive maintenance is to allow convenient scheduling of 
 <br/>
 
 ## 4. Predictive maintenance conference
-   - [PHM Society](https://www.phmsociety.org/)
-   - (ko) [Korean Society for Prognostics and Health Managment](http://www.phm.or.kr/)
+   - PHM Society | [link](https://www.phmsociety.org/)
+   - (ko) Korean Society for Prognostics and Health Managment | [link](http://www.phm.or.kr/)
    
 
 
